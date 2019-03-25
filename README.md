@@ -18,7 +18,6 @@
          - *Zookeeper container*
          - *Elastic-Job*
          - *Elasticsearch*
-   - *skill for programming in python*
    - *skill for programming with components*
       - *Redis*
       - *Rocket MQ*
